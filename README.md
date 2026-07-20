@@ -1,21 +1,30 @@
-# Papers and supporting materials
+# Dissertation working papers — replication materials
 
-The papers associated with this repository are stored in:
-[`childwork-observed-returns/`](childwork-observed-returns/)
+Replication materials for working papers derived from my Ph.D. dissertation
+(*Essays on Labor, Non-Homotheticity and Welfare in Developing Countries*,
+The Pennsylvania State University, 2020).
+
+**Author:** Kodzovi S. Abalo (World Bank) — kabalo@worldbank.org
 
 ## Papers
 
-1. [Paper title 1](childwork-observed-returns/paper-01.pdf)
-2. [Paper title 2](childwork-observed-returns/paper-02.pdf)
-3. [Paper title 3](childwork-observed-returns/paper-03.pdf)
-4. [Paper title 4](childwork-observed-returns/paper-04.pdf)
-5. [Paper title 5](childwork-observed-returns/paper-05.pdf)
-6. [Paper title 6](childwork-observed-returns/paper-06.pdf)
-7. [Paper title 7](childwork-observed-returns/paper-07.pdf)
-8. [Paper title 8](childwork-observed-returns/paper-08.pdf)
-9. [Paper title 9](childwork-observed-returns/paper-09.pdf)
-10. [Paper title 10](childwork-observed-returns/paper-10.pdf)
+| Paper | Materials | Status |
+|---|---|---|
+| **Ability, Credit Constraints, and the Observed Returns to Child Work** | [`childwork-observed-returns/`](childwork-observed-returns/) — self-contained Python replication package (7 scripts regenerating every table and figure; see its README for the script-to-exhibit mapping) | Working paper, 2026 |
+
+Additional papers and their replication materials may be added over time.
 
 ## Permanent archive
 
-DOI: [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx)
+Each release of this repository is archived on Zenodo.
+DOI (all versions): [10.xxxx/xxxxx](https://doi.org/10.xxxx/xxxxx) *(to be updated after the first Zenodo release)*
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+
+## Disclaimer
+
+The views expressed in these materials are those of the author and do not
+necessarily represent the views of the World Bank, its Executive Directors,
+or the governments they represent.
