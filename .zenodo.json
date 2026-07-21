@@ -1,0 +1,19 @@
+{
+  "title": "Replication package for \"Ability, Credit Constraints, and the Observed Returns to Child Work\"",
+  "description": "Self-contained Python replication package for the working paper \"Ability, Credit Constraints, and the Observed Returns to Child Work\". Seven numbered scripts regenerate every table and figure in the paper: the population economies and omitted-variable-bias decomposition, the specification ladder, the selection-threshold and reversal-boundary verifications, the policy experiments with consumption-equivalent welfare accounting, the constrained-share robustness exercise, and the skill-building-channel robustness checks. Requires Python 3.9+ with numpy, scipy and matplotlib. All scripts are deterministic (fixed random seeds) and run in roughly 10-15 minutes in total. See the package README for the script-to-exhibit mapping.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {
+      "name": "Abalo, Kodzovi S.",
+      "affiliation": "World Bank",
+      "orcid": "0000-0002-7567-2181"
+    }
+  ],
+  "keywords": [
+    "child work", "child labor", "human capital", "credit constraints",
+    "ability selection", "returns to education", "development economics",
+    "replication package"
+  ]
+}
