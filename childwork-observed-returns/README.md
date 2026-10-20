@@ -30,7 +30,7 @@ Run in numerical order to regenerate every exhibit:
   displacement/selection components: script 01.
 - Full-specification exact recovery (0, α, κ): script 02.
 - Zero sign mismatches for the selection thresholds of Propositions 1–2 and the
-  reversal boundaries of Proposition 3; σ* = 1 knife-edge at d̄ = 0: scripts 03
+  reversal boundaries of Proposition 3; σ* = 1 threshold at d̄ = 0: scripts 03
   and 05.
 - Consumption-equivalent welfare gains (mean +11.0%; +20.5% poorest quintile to
   +2.8% richest at d̄ = 0.6): script 03, part D.
