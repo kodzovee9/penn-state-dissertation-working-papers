@@ -17,7 +17,7 @@ Additional papers and their replication materials may be added over time.
 ## Permanent archive
 
 Each release of this repository is archived on Zenodo.
-DOI (all versions): [10.5281/zenodo.21452983](https://doi.org/10.5281/zenodo.21452983) *(to be updated after the first Zenodo release)*
+DOI (all versions): [10.5281/zenodo.21452983](https://doi.org/10.5281/zenodo.21452983)
 
 ## License
 
